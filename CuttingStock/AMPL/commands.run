@@ -1,0 +1,5 @@
+solve;		#try to solve the problem
+
+display x;	#display the results
+
+display sum{j in col} x[j];
